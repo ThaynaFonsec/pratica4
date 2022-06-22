@@ -12,27 +12,14 @@
         android:id="@+id/textView3"
         android:layout_width="141dp"
         android:layout_height="22dp"
-        android:text="E-mail" />
+        android:text="E-mail"/>
 
     <EditText
         android:id="@+id/editTextTextEmailAddress2"
         android:layout_width="379dp"
         android:layout_height="48dp"
         android:ems="10"
-        android:inputType="textEmailAddress" />
-
-    <TextView
-        android:id="@+id/textView4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Telefone" />
-
-    <EditText
-        android:id="@+id/editTextPhone"
-        android:layout_width="376dp"
-        android:layout_height="56dp"
-        android:ems="10"
-        android:inputType="phone" />
+        android:inputType="textEmailAddress"/>
 
     <TextView
         android:id="@+id/textView5"
@@ -45,25 +32,12 @@
         android:layout_width="379dp"
         android:layout_height="50dp"
         android:ems="10"
-        android:inputType="numberPassword" />
-
-    <TextView
-        android:id="@+id/textView6"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Confirme a senha" />
-
-    <EditText
-        android:id="@+id/editTextNumberPassword3"
-        android:layout_width="375dp"
-        android:layout_height="51dp"
-        android:ems="10"
-        android:inputType="numberPassword" />
+        android:inputType="numberPassword"/>
 
     <Button
         android:id="@+id/button_secadastrar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Cadastrar" />
+        android:text="Cadastrar"/>
 
 </LinearLayout>
